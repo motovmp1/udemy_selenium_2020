@@ -1,0 +1,50 @@
+2020-03-30 21:38:25,705 :INFO : test_p_74_pytest_unit : Information stataement messages
+2020-03-30 21:38:25,705 :WARNING : test_p_74_pytest_unit : Something is in warning mode
+2020-03-30 21:38:25,705 :ERROR : test_p_74_pytest_unit : A major error has happened
+2020-03-30 21:38:25,705 :CRITICAL : test_p_74_pytest_unit : Critical issues
+2020-03-30 21:39:06,806 :INFO : test_p_74_pytest_unit : Information stataement messages
+2020-03-30 21:39:06,806 :WARNING : test_p_74_pytest_unit : Something is in warning mode
+2020-03-30 21:39:06,806 :ERROR : test_p_74_pytest_unit : A major error has happened
+2020-03-30 21:39:06,806 :CRITICAL : test_p_74_pytest_unit : Critical issues
+2020-03-30 21:43:02,454 :INFO : test_p_74_pytest_unit : Information stataement messages
+2020-03-30 21:43:02,454 :WARNING : test_p_74_pytest_unit : Something is in warning mode
+2020-03-30 21:43:02,454 :ERROR : test_p_74_pytest_unit : A major error has happened
+2020-03-30 21:43:02,454 :CRITICAL : test_p_74_pytest_unit : Critical issues
+2020-03-30 21:43:26,859 :INFO : test_p_74_pytest_unit : Information stataement messages
+2020-03-30 21:43:26,860 :WARNING : test_p_74_pytest_unit : Something is in warning mode
+2020-03-30 21:43:26,860 :ERROR : test_p_74_pytest_unit : A major error has happened
+2020-03-30 21:43:26,860 :CRITICAL : test_p_74_pytest_unit : Critical issues
+2020-03-30 21:46:51,601 :INFO : test_logging_demo :test_p_74_pytest_unit : Information stataement messages
+2020-03-30 21:46:51,602 :WARNING : test_logging_demo :test_p_74_pytest_unit : Something is in warning mode
+2020-03-30 21:46:51,602 :ERROR : test_logging_demo :test_p_74_pytest_unit : A major error has happened
+2020-03-30 21:46:51,602 :CRITICAL : test_logging_demo :test_p_74_pytest_unit : Critical issues
+2020-03-30 21:59:21,971 :DEBUG : test_logging_demo :test_p_74_pytest_unit : A debug statement is executed
+2020-03-30 21:59:21,971 :INFO : test_logging_demo :test_p_74_pytest_unit : Information stataement messages
+2020-03-30 21:59:21,972 :WARNING : test_logging_demo :test_p_74_pytest_unit : Something is in warning mode
+2020-03-30 21:59:21,972 :ERROR : test_logging_demo :test_p_74_pytest_unit : A major error has happened
+2020-03-30 21:59:21,972 :CRITICAL : test_logging_demo :test_p_74_pytest_unit : Critical issues
+2020-03-30 22:01:13,506 :DEBUG : test_logging_demo :test_p_74_pytest_unit : A debug statement is executed
+2020-03-30 22:01:13,506 :INFO : test_logging_demo :test_p_74_pytest_unit : Information stataement messages
+2020-03-30 22:01:13,506 :WARNING : test_logging_demo :test_p_74_pytest_unit : Something is in warning mode
+2020-03-30 22:01:13,507 :ERROR : test_logging_demo :test_p_74_pytest_unit : A major error has happened
+2020-03-30 22:01:13,507 :CRITICAL : test_logging_demo :test_p_74_pytest_unit : Critical issues
+2020-03-30 22:25:30,303 :INFO : test_edit_Profile :p_75_test_base_classe : shetty
+2020-03-30 22:27:13,421 :INFO : test_edit_Profile :p_75_test_base_classe : Rahul
+2020-03-30 22:27:13,421 :WARNING : test_edit_Profile :p_75_test_base_classe : shetty
+2020-03-30 22:28:21,534 :INFO : test_edit_Profile :p_75_test_base_classe : Rahul
+2020-03-30 22:28:21,535 :WARNING : test_edit_Profile :p_75_test_base_classe : shetty
+2020-03-30 22:30:42,671 :INFO : test_edit_Profile :p_75_test_base_classe : Rahul
+2020-03-30 22:30:42,671 :WARNING : test_edit_Profile :p_75_test_base_classe : shetty
+2020-03-30 22:31:42,856 :INFO : test_edit_Profile :p_75_test_base_classe : Vinicius
+2020-03-30 22:31:42,857 :WARNING : test_edit_Profile :p_75_test_base_classe : Pinho
+2020-03-30 22:37:57,913 :INFO : test_edit_Profile :p_75_test_base_classe : Vinicius
+2020-03-30 22:37:57,913 :WARNING : test_edit_Profile :p_75_test_base_classe : Pinho
+2020-03-31 22:37:29,759 :DEBUG : test_logging_demo :test_p_74_pytest_unit : A debug statement is executed
+2020-03-31 22:37:29,759 :INFO : test_logging_demo :test_p_74_pytest_unit : Information stataement messages
+2020-03-31 22:37:29,759 :WARNING : test_logging_demo :test_p_74_pytest_unit : Something is in warning mode
+2020-03-31 22:37:29,759 :ERROR : test_logging_demo :test_p_74_pytest_unit : A major error has happened
+2020-03-31 22:37:29,759 :CRITICAL : test_logging_demo :test_p_74_pytest_unit : Critical issues
+2020-04-01 00:22:40,607 :INFO : test_edit_Profile :p_75_test_base_classe : Vinicius
+2020-04-01 00:22:40,607 :WARNING : test_edit_Profile :p_75_test_base_classe : Pinho
+2020-04-01 00:24:21,440 :INFO : test_edit_Profile :p_75_test_base_classe : Vinicius
+2020-04-01 00:24:21,440 :WARNING : test_edit_Profile :p_75_test_base_classe : Pinho
